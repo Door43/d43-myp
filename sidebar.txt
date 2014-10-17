@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myp:home|Door43 (myp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myp|d43-myp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myp/archive/master.zip|d43-myp.zip]]
+
+**Recent Changes**
+{{changes>ns = myp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myp|Ethnologue data]]
+
